@@ -1,0 +1,7 @@
+C:\Users\antho\Desktop\ProjetoGit\Csharp\GitFirst\GitFirst\bin\Debug\GitFirst.exe.config
+C:\Users\antho\Desktop\ProjetoGit\Csharp\GitFirst\GitFirst\bin\Debug\GitFirst.exe
+C:\Users\antho\Desktop\ProjetoGit\Csharp\GitFirst\GitFirst\bin\Debug\GitFirst.pdb
+C:\Users\antho\Desktop\ProjetoGit\Csharp\GitFirst\GitFirst\obj\Debug\GitFirst.csproj.AssemblyReference.cache
+C:\Users\antho\Desktop\ProjetoGit\Csharp\GitFirst\GitFirst\obj\Debug\GitFirst.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\ProjetoGit\Csharp\GitFirst\GitFirst\obj\Debug\GitFirst.exe
+C:\Users\antho\Desktop\ProjetoGit\Csharp\GitFirst\GitFirst\obj\Debug\GitFirst.pdb
